@@ -13,3 +13,6 @@ M114020039 第一張圖 <br>
 B094020040 第二張圖 <br>
 M114020022 第三張圖 <br>
 M114020052 第四張圖 <br>
+
+Dataset: [Disney+](https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies?select=titles.csv)、
+         [Netflix](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies)
