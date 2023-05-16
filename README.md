@@ -1,9 +1,9 @@
 # visual_final
-project 為要開發的資料夾
-project/index.html => 第一張圖
-project/second.html => 第二張圖
-project/third.html => 第三張圖
-project/fourth.html => 第四張圖
+project 為要開發的資料夾 <br>
+project/index.html => 第一張圖 <br>
+project/second.html => 第二張圖 <br>
+project/third.html => 第三張圖 <br>
+project/fourth.html => 第四張圖 <br>
 
 example 為模板範例資料夾
 documentation 為空模板
